@@ -2,7 +2,7 @@ import React from 'react'
 
 const Footer = () => {
   return (
-    <div>&copy; {Date()}</div>
+    <div>&copy; {year.Date()}</div>
   )
 }
 
