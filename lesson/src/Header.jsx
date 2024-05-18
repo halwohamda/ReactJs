@@ -4,7 +4,7 @@ import React from 'react'
 const Header = () => {
   return (
     <div>
-        <h1>Acadamy</h1>
+        <h1 className='acadamy'>Acadamy</h1>
         <nav>
             <ul>
                 <li>lesson</li>
@@ -12,6 +12,7 @@ const Header = () => {
                 <li>assigment</li>
             </ul>
         </nav>
+        <hr />
     </div>
   )
 }
