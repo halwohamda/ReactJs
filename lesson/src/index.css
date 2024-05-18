@@ -18,5 +18,11 @@ body{
 .text{
     gap: 20px;
     font-weight: 70px;
-    font-size: 2px;
+    font-size: 20px;
+}
+.footer{
+    margin-top: 20px;
+    font-size: 6%;
+    font-weight: 20px;
+    font: italic;
 }
