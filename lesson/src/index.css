@@ -11,7 +11,12 @@ body{
     margin-top: 200px;
 }
 .acadamy{
-    font-size: 12px;
+    font-size: 60px;
     color: white;
     font-weight: 300;
+}
+.text{
+    gap: 20px;
+    font-weight: 70px;
+    font-size: 2px;
 }

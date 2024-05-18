@@ -5,7 +5,7 @@ const Header = () => {
   return (
     <div>
         <h1 className='acadamy'>Acadamy</h1>
-        <nav>
+        <nav className='text'>
             <ul>
                 <li>lesson</li>
                 <li>classwork</li>
