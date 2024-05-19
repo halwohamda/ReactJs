@@ -16,7 +16,7 @@ box-shadow: 2px 1px 3px rgb(126, 126, 193);
 }
 .card .card-title{
   font-size: 30px;
-  color: rgb(95, 70, 70);
+  /* color: rgb(95, 70, 70); */
   margin-top: 20px;
 
 }
