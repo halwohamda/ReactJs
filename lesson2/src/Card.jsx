@@ -3,11 +3,11 @@ import profile from '../public/profile.jpg'
 
 const Card = () => {
   return (
-    <div>
-             <img  src='http://via.placeholer.com/150 '  alt='profile picture'  />
+    <div className='card'>
+             <img  src={profile}  alt='profile picture' className='card-img'  />
             
-      <h1>Halwo </h1>
-      <p>Full-stack developer FrontEnd backEnd react javascript </p>
+      <h1 className=' card-title '>Halwo </h1>
+      <p className='card-text'>Full-stack developer FrontEnd backEnd react javascript </p>
     </div>
   )
 }
