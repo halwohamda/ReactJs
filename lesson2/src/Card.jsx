@@ -1,5 +1,5 @@
 import React from 'react'
-import profile from '../public/profile.jpg'
+import profile from '../public/profile1.jpeg'
 
 const Card = () => {
   return (
@@ -7,7 +7,7 @@ const Card = () => {
              <img  src={profile}  alt='profile picture' className='card-img'  />
             
       <h1 className=' card-title '>Halwo </h1>
-      <p className='card-text'>Full-stack developer FrontEnd backEnd react javascript </p>
+      <p className='card-text'>Full-stack developer <br /> FrontEnd  <br />backEnd react javascript </p>
     </div>
   )
 }
