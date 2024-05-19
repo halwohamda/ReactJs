@@ -1,10 +1,11 @@
 import React from 'react'
+import profile from './public/profile.jpg'
 
 const App = () => {
   return (
     <div>
-      <img src="" alt="" />
-      <h1></h1>
+      <img src={profile} alt={p} />
+      <h1>Halwo </h1>
       <p>Full-stack developer FrontEnd backEnd react javascript </p>
     </div>
   )
