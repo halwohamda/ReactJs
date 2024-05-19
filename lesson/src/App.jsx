@@ -6,8 +6,8 @@ import Food from './Food';
 const App = () => {
   return (
     <>
+     <Footer/>
     <Header/>
-    <Footer/>
     <Food/>
     
     
