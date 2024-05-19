@@ -3,9 +3,10 @@
   box-shadow: 2px 3px 1px rgb(223, 191, 191);
   padding: 2px;
   width: 30%;
-height : 20%;
-border-radius: 10px;
-text-align: center;
+  height : 20%;
+   border-radius: 10px;
+  text-align: center;
+  display: inline-block;
 
 }
  .card .card-img{
