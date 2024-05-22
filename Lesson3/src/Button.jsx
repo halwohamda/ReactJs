@@ -2,9 +2,9 @@
 
 const Button = () => {
    const style={
-    backgroundColor: "rgb(76, 76, 234)";
-    color: "white";
-    padding: 10px 20px;
+    backgroundColor: "rgb(76, 76, 234)",
+    color: "white",
+    padding: "10px 20px",
     outline: none;
     margin: 20px;
     border-radius: 10px;
