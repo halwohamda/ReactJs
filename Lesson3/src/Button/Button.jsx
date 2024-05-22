@@ -1,10 +1,10 @@
-import styles from ''
+import styles from 'Button.modules.css'
 
 const Button = () => {
 
   return (
   <div>
-    <button className={Style.button}>ClickMe</button>
+    <button className={styles.button}>ClickMe</button>
   </div>
   )
 }
