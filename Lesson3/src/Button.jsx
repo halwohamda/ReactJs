@@ -7,8 +7,8 @@ const Button = () => {
     padding: "10px 20px",
     outline: "none",
     margin: "20",
-    borderRadius: "10px";
-    cursor: "pointer";
+    borderRadius: "10px",
+    cursor: "pointer",
    }
 
   return (
