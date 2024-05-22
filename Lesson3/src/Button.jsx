@@ -2,10 +2,9 @@ import React from 'react'
 
 const Button = () => {
   return (
-    <div className='button'>
-        ClickMe
-
-    </div>
+  <div>
+    <button className='button'>ClickMe</button>
+  </div>
   )
 }
 
