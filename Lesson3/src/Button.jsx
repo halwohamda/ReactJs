@@ -2,8 +2,8 @@
 
 const Button = () => {
    const style={
-    background-color: rgb(76, 76, 234);
-    color: white;
+    backgroundColor: "rgb(76, 76, 234)";
+    color: "white";
     padding: 10px 20px;
     outline: none;
     margin: 20px;
