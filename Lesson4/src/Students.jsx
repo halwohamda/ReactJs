@@ -6,6 +6,7 @@ const Students = (props) => {
         <p>name: {props.name}</p>
         <p>Age: {props.age}</p>
         <p>section: {props.section}</p>
+        <p>Student: {props.student ? "yes" : "No"}</p>
 
     </div>
   )
