@@ -1,8 +1,10 @@
 import React from 'react'
-import
+import Students from './Students.jsx'
 const App = () => {
   return (
-    <div>App</div>
+    <div>
+        <Students name={mohamed}/>
+    </div>
   )
 }
 
