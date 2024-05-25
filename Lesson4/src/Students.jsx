@@ -5,7 +5,7 @@ const Students = (props) => {
     <div>
         <p>name: {props.name}</p>
         <p>Age: {props.age}</p>
-        <p>name: {props.name}</p>
+        <p>section: {props.section}</p>
 
     </div>
   )
